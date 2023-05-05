@@ -1,5 +1,5 @@
 # falsePosition.m
-### *A MATLAB function to calculate the root of function using the false position method.*
+### *A MATLAB function to calculate the root of a mathematical function using the false position method.*
 **INPUTS:**
 * func -> the function to be evaluated
 * xl -> lower bound
@@ -13,7 +13,7 @@
 * ea -> the calculated approximate error
 * inter -> the interation count
 
-**EXAMPLE**
+**EXAMPLE:**
 func = @(x) x.^2 + 2*x
 xl = -1;
 xu = 1;
