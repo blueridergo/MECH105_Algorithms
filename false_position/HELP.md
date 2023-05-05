@@ -1,5 +1,5 @@
 # falsePosition.m
-## *A MATLAB function to calculate the root of function using the false position method.*
+### *A MATLAB function to calculate the root of function using the false position method.*
 **INPUTS:**
 * func -> the function to be evaluated
 * xl -> lower bound

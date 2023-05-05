@@ -1,5 +1,5 @@
 # linearRegression.m
-## *A MATLAB function to compute the linear regression of a data set.*
+### *A MATLAB function to compute the linear regression of a data set.*
 **INPUTS:**
 * x -> the x-values
 * y -> the y-values
