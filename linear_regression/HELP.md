@@ -13,6 +13,7 @@
 
 **EXAMPLE:**  
 *Note: the sizes of x and y must be the same*  
+
 x = [1 3 5 7];  
 y = [2 1 4 6];  
 
