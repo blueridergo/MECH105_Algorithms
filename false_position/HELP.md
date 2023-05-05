@@ -13,11 +13,11 @@
 * ea -> the calculated approximate error
 * inter -> the interation count
 
-**EXAMPLE:**
-func = @(x) x.^2 + 2*x
-xl = -1;
-xu = 1;
-es = 0.1;
-maxit = 5;
+**EXAMPLE:**  
+func = @(x) x.^2 + 2*x  
+xl = -1;  
+xu = 1;  
+es = 0.1;  
+maxit = 5;  
 
 [root, fx, ea, iter] = falseposition(func, xl, xu, es, maxit)
